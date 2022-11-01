@@ -1,3 +1,6 @@
-[![Ethan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ethan-french1&count_private=true&theme=tokyonight)](https://github.com/ethan-french1/github-readme-stats) 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ethan-french1&layout=compact&theme=tokyonight)](https://github.com/ethan-french1/github-readme-stats)
+<a href="https://github.com/ethan-french1/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ethan-french1&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/ethan-french1/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ethan-french1&repo=convoychat" />
+</a>
